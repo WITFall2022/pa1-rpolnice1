@@ -5,7 +5,7 @@ import java.util.Scanner;
 // TODO: document this class
 public class PA1a {
 
-	// TODO: document this function
+	// TODO: document this function now
 	public static void main(String[] args) {
 		
 		Scanner input= new Scanner(System.in); 
